@@ -1,3 +1,5 @@
+To read the below data request you to switch to Raw option
+
 Angular
 
 Features of angular
