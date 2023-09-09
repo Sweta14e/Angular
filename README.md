@@ -24,7 +24,7 @@ CLI(command line   = did not have CLI             has CLI
 interface)
 Performance        = Slow                         Fast
 
-Angular 3 was never released
+Angular 3 was never released(skipping 3 to avoid a confusion due to the misalignment of the router package's version which was already distributed in Angular 2)
 Angular 4 = March 2017
 Angular 5 = November 2017
 Angular 6 = April 2018
