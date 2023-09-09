@@ -4,7 +4,7 @@ Features of angular
 1. Open source
 
 Angular Versions
-Angular 1 = October 2010 (developed by Google)
+Angular 1(Angular JS)= October 2010 (developed by Google)
 Angular 2 = September 2016 (completely developed from scratch by Google team some how framework from version to version it's not meant that all versions are with same framework) 
 
 What is the diference between Angular 1 and Angular 2 and why angular 2 was built from scratch?
@@ -23,3 +23,17 @@ Testing            = did not have any inbuilt     have inbuilt testing
 CLI(command line   = did not have CLI             has CLI
 interface)
 Performance        = Slow                         Fast
+
+Angular 3 was never released
+Angular 4 = March 2017
+Angular 5 = November 2017
+Angular 6 = April 2018
+.
+.
+.
+.
+.
+(new angular version is released after every 6 months now)
+Angular 16 = May 2023
+Angular 17 = November 2023
+* 'Angular JS' is angular 1 but 'Angular' is angular 2 and above till date 
